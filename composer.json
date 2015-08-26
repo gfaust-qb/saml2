@@ -10,7 +10,7 @@
     ],
     "repositories": {
           "gfaust-qb": {
-              "type": "package",
+              "type": "library",
               "package": {
                   "name": "gfaust-qb/xmlseclibs",
                   "version": "2.0.0",
