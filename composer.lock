@@ -4,18 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "ff223a3f7dad25866981b93e55f32328",
+    "hash": "47f11391f7a61147e802cc5d99e698b5",
     "packages": [
-        {
-            "name": "gfaust-qb/xmlseclibs",
-            "version": "2.0.0",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/gfaust-qb/xmlseclibs",
-                "reference": "Specified_Exception"
-            },
-            "type": "library"
-        },
         {
             "name": "psr/log",
             "version": "1.0.0",
@@ -53,6 +43,16 @@
                 "psr-3"
             ],
             "time": "2012-12-21 11:40:51"
+        },
+        {
+            "name": "robrichards/xmlseclibs",
+            "version": "3.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/gfaust-qb/xmlseclibs",
+                "reference": "Specified_Exception"
+            },
+            "type": "library"
         }
     ],
     "packages-dev": [
